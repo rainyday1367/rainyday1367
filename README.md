@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&text=rainyday1367&fontSize=40&color=auto)
 
-I want be a Back-End Developer
 
 ## Stack
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
